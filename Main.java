@@ -57,7 +57,7 @@ public class Main {
                 Liga ligaActual = null;
                 int startIndex = 0;
 
-                //switch para seleccionar la liga
+                //switch para seleccionar las ligas
                 switch (opcion) {
                     case 1:
                         System.out.println("Has seleccionado la Bundesliga");
